@@ -41,7 +41,7 @@ When the tool asks for the input file, it is best to provide the **full file pat
 
 > **💡 Pro-Tip:** In Windows, you can right-click your CSV file and select **"Copy as path"**. Then, simply right-click inside the tool's terminal window to paste it! (Note: You may need to remove the quotation marks around the path after pasting).
 
-**Note on Output:** To keep your workspace clean, the batch tool **edits your input file directly**. It will append a new column titled `Rainfall_24H_mm` to your existing spreadsheet once the processing is complete.
+> **Note on Output:** To keep your workspace clean, the batch tool **edits your input file directly**. It will append a new column titled `Rainfall_24H_mm` to your existing spreadsheet once the processing is complete.
 ---
 
 ## 🚀 Installation & Usage
