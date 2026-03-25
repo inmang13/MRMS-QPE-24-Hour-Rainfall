@@ -1,0 +1,17 @@
+# PyInstaller folders
+build/
+dist/
+*.spec
+
+# Python internals
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env/
+
+# Data/Temp files
+*.grib2
+*.idx
+*.gz
