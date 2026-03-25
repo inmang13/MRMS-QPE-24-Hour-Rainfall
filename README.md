@@ -8,8 +8,8 @@ This repository contains tools to programmatically retrieve 24-hour rainfall acc
 
 | File | Best For... | Input Method |
 | :--- | :--- | :--- |
-| **`single_rainfall_24H.exe`** | Quick, single-location checks. | Manual entry in the terminal. |
-| **`rainfall_batch.exe`** | Processing site lists or sensor networks. | Uploading a `.csv` or `.xlsx` spreadsheet. |
+| **`single_rainfall_24Hr.exe`** | Quick, single-location checks. | Manual entry in the terminal. |
+| **`batch_rainfall_24Hr.exe`** | Processing site lists or sensor networks. | Uploading a `.csv` or `.xlsx` spreadsheet. |
 
 ---
 
